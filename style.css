@@ -1,0 +1,20 @@
+body{
+	background-image: url("background.jpg");
+}
+h1{
+	color: 	#FFFFFF;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 30px;
+}
+.page-header{
+	border-bottom: 0px;
+}
+h2{
+	color: #FFFFFF;
+}
+p{
+	color: #FFFFFF;
+}
+form{
+	color: #FFFFFF;
+}
